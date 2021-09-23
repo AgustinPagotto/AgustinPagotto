@@ -39,7 +39,7 @@
 
 <details>
   <summary>Languages</summary>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgustinPagotto)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 [linkedin]: https://linkedin.com/in/agustin-oliveros-pagotto/
