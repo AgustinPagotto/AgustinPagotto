@@ -2,8 +2,9 @@
 
 ## I'm a Student, Developer, and a Quality Analyst!!
 
-- 🌱 I’m currently trying to master Javascript and starting to learn about Front-End Development
-- ⚡ Fun fact: I love to build Custom Mechanical Keyboards
+- 🌱 I’m currently trying to master Javascript and starting to learn about Front-End Development.
+- ⚡ I love to build mobile aplications in React Native.
+- ⚡ Fun fact: I love to build Custom Mechanical Keyboards.
 
 ### Connect with me:
 
