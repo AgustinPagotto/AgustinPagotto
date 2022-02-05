@@ -1,6 +1,6 @@
 ### Hi, I'm Agustín 👋
 
-## I'm a Student, Developer, and a Quality Analyst!!
+## I'm a Student, and a Developer!!
 
 - 🌱 I’m currently trying to master Javascript and starting to learn about Front-End Development.
 - ⚡ I love to build mobile aplications in React Native.
