@@ -1,9 +1,9 @@
 ### Hi, I'm Agustín 👋
 
-## I'm a Student, and a Developer!!
+## I'm a System Engineer, and a Developer!!
 
-- 🌱 I’m currently trying to master Javascript and starting to learn about Front-End Development.
-- ⚡ I love to build mobile aplications in React Native.
+- 🌱 I’m currently trying to master Ruby on Rails.
+- ⚡ I love to build mobile aplications in React Native. I have more than 4 years of experience with it.
 - ⚡ Fun fact: I love to build Custom Mechanical Keyboards.
 
 ### Connect with me:
