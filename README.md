@@ -2,9 +2,9 @@
 
 ## I'm a System Engineer, and a Developer!!
 
-- 🌱 I’m currently trying to master Ruby on Rails.
-- ⚡ I love to build mobile aplications in React Native. I have more than 4 years of experience with it.
-- ⚡ Fun fact: I love to build Custom Mechanical Keyboards.
+- 🌱 I’m currently trying to master Go.
+- ⚡ I'm insterested in building CLI tools and work with Golang it.
+- ⚡ I have 4 years of exprience building mobile apps with React Native.
 
 ### Connect with me:
 
