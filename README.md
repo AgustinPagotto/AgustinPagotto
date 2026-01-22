@@ -5,7 +5,7 @@
 - I’m currently trying to master Go.
 - I'm insterested in building CLI tools and work with Golang it.
 - I currently use Arch Linux and Neovim.
-- I have 4 years of exprience building mobile apps with React Native.
+- I have 4 years of experience building mobile apps with React Native.
 
 ### Connect with me:
 
